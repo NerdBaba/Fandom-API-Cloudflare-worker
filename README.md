@@ -1,4 +1,4 @@
-# fandom-wiki-cloudflare-worker
+# fandom-api-cloudflare-worker
 
 A Cloudflare Worker that acts as a feature-complete proxy and utility service for the Fandom MediaWiki API. This project enables secure, fast, and CORS-friendly access to Fandom wikis, with additional endpoints for health checks, metadata, and documentation.
 
