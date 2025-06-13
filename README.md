@@ -114,18 +114,4 @@ CORS preflight requests are supported.
 - `test/` — Vitest-based tests
 - `wrangler.jsonc` — Cloudflare Worker configuration
 
-### TypeScript
 
-Strict type-checking is enabled. Type definitions for Cloudflare Workers are included.
-
----
-
-## Contact & Source
-
-For issues and contributions, see the main [BreezeWiki repository](https://github.com/breezewiki/breezewiki).
-
----
-
-## License
-
-See the repository for license details.
